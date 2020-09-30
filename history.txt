@@ -1,0 +1,207 @@
+history
+history -w a.txt
+ls
+ls -A
+ls -a
+pwd
+cd srijan
+cat a.txt
+date
+rm -i b.txt
+rm -v b.txt
+rm a.txt
+mkdir -v srijan
+mkdir sri
+mkdir -p srijan/sri/sr
+rm srijan/sri/sr
+exit
+cd ..
+cd ..
+cd -L ghj
+pwd -L
+pwd -P
+cd ..
+cd -L ghj
+pwd -P
+pwd -L
+exit
+cd ..
+cd -L ghj
+pwd -L
+pwd -P
+exit
+cd ..
+cd ..
+cd ..
+cd ..
+pwd
+cd home/srijan/Desktop/Assignment1
+pwd
+date -u
+exit
+date --help
+exit
+date --help
+date --help
+exit
+date --help
+exit
+date --help
+exit
+rm --help
+rm --help
+exit
+rm --help
+exit
+mkdir --help
+mkdir --help
+exit
+mkdir --help
+mkdir --help
+mkdir --help
+rm --help
+mkdir --help
+ls --help
+ls --help
+ls --help
+ls --help
+ls --help
+exit 0
+cat --help
+cat --help
+cat --help
+cat help
+cat --help
+ls --help
+cat --help
+mkdir --help
+date --help
+date --help
+rm --help
+rm --help
+exitexit
+exit
+clear
+exit
+clear
+exit
+clear
+clear
+exit
+cd --help
+cd --help
+cd --help
+cd --help
+exit
+cd --help
+exit
+pwd
+pwd -P
+pwd --help
+pwd --help
+pwd --help
+pwd --help
+exit
+history --help
+history --help
+history --help
+exit --help
+exit h
+exit s
+exit --help
+exit
+exit 5
+exit ?
+exit --help
+cd --help
+echo --help
+exit
+echo --help
+echo srijan
+echo srijan
+[Dexit
+exit
+echo --help
+echo srijan garg shiv kumar
+exit
+echo srijan garg shiv kumar
+echo -E srijan garg shiv kumar
+echo -n srijan garg shiv kumar
+echo --help
+cat ab.txt abc.txt
+cat -n ab.txt abc.txt
+exit
+cat -b ab.txt abc.txt
+cat -n nab.txt abc.txt
+exit
+exit
+exit
+exit
+exit
+rm --help
+exit
+exit
+cat abc/a.txt
+exit
+make
+exit
+exit
+exit
+cat abc/a.txt
+exit
+cat abc/a.txt
+exit
+cat abc/a.txt
+cat lemon.txt
+exit
+cat abc/a.txt
+exit
+cat -n abc/a.txt
+exit
+cat -n abc/a.txt
+cat -b abc/a.txt
+exit
+ls
+ls -a
+ls -A
+ls --help
+exit
+ls
+exit
+exit
+ls abc/a.txt
+ls
+ls def
+ls abc
+ls
+ls 
+pwd
+ls -A abc
+ls -A abc
+pwd
+exit
+ls
+ls abc
+cd ..
+pwd
+ls Assignment1
+ls -a Assignment1
+exit
+rm lemon.txt
+exit
+rm lemon.txt
+pwd
+rm abc/a.txt
+rm
+exit
+rm 
+exit
+rm
+rm 
+rm --help
+exit
+mkdir abcdef
+mkdir -v abab
+mkdir -p ababc/ab/a/b
+exit
+exit

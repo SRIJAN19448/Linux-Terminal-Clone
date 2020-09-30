@@ -1,0 +1,8 @@
+Usage: mkdir [OPTION] DIRECTORY...
+Create the DIRECTORY(ies), if they do not already exist.
+
+Mandatory arguments to long options are mandatory for short options too.
+  
+  -p              no error if existing, make parent directories as needed
+  -v              print a message for each created directory
+      --help    display this help and exit

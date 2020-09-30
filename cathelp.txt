@@ -1,0 +1,6 @@
+Usage: cat [OPTION] [FILE]...
+Concatenate FILE(s) to standard output.
+  
+  -b                number nonempty output lines, overrides -n
+  -n                number all output lines
+    --help     display this help and exit

@@ -1,0 +1,8 @@
+Usage: cd [OPTION]
+Change the shell working directory.
+
+Options:
+    -P	            use the physical directory structure without following
+                    symbolic links: resolve symbolic links in DIR before
+                    processing instances of `..'
+      --help    display this help an exit 

@@ -1,0 +1,7 @@
+Usage: exit [N]
+Exit the shell.
+    
+    --help   display this help and exit
+
+    Exits the shell with a status of N.  If N is omitted, the exit status
+    is successful.

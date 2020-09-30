@@ -1,0 +1,6 @@
+Usage: rm [OPTION] [FILE]
+Remove (unlink) the FILE(s).
+
+  -i                    prompt before every removal
+  -v                    explain what is being done
+      --help     display this help and exit

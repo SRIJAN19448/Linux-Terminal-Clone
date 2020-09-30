@@ -1,0 +1,7 @@
+Usage: ls [OPTION]
+List information about the FILEs
+
+Mandatory arguments to long options are mandatory for short options too.
+  -a               do not ignore entries starting with .
+  -A               do not list implied . and ..
+     --help   display this help and exit

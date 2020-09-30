@@ -1,0 +1,7 @@
+Usage: echo [OPTION] [STRING]...
+Echo the STRING(s) to standard output.
+
+  -n             do not output the trailing newline
+  
+  -E             disable interpretation of backslash escapes (default)
+      --help     display this help and exit

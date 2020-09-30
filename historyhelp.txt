@@ -1,0 +1,9 @@
+Usage: history [OPTION] [FILENAME] 
+Display or manipulate the history.
+    
+Options:
+  -c	         clear the history list by deleting all of the entries
+  -w	         write the current history to the history file provided
+    --help   display this help and exit
+
+  By default history command displays the full history

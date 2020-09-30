@@ -1,0 +1,8 @@
+Usage: date [OPTION]
+Display the current time 
+
+Mandatory arguments to long options are mandatory for short options too.
+  -R                  output date and time in RFC 5322 format.
+                      Example: Mon, 14 Aug 2006 02:34:56 -0600
+  -u                  print or set Coordinated Universal Time (UTC)
+      --help     display this help and exit
